@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">InternetConnection XML</string>
+
+    <string name="try_again">Try Again</string>
+    <string name="error_connexion">We couldn\'t connect to the server</string>
+    <string name="error_message">Check your internet connection.</string>
 </resources>
